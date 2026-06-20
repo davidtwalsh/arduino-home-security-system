@@ -1,6 +1,6 @@
 # arduino-home-security-system
 
-This repository contains an Arduino-based home security system with a backend service and React frontend.
+This repository contains an Arduino-based home security system with a Python FastAPI backend service and React frontend.
 
 ## Arduino WiFi credentials
 

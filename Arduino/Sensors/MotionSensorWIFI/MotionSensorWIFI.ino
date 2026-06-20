@@ -2,8 +2,6 @@
 #include <HTTPClient.h>
 #include "../../credentials.h"
 
-const char* backendUrl = "http://10.0.0.215:8000/motion";
-
 void setup() {
   Serial.begin(115200);
   delay(1000);
