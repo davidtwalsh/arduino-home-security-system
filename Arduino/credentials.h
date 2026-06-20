@@ -1,7 +1,0 @@
-#ifndef ARDUINO_CREDENTIALS_H
-#define ARDUINO_CREDENTIALS_H
-
-const char* ssid = "YOURWIFINAMEHERE";
-const char* password = "YOURWIFIPASSWORDHERE";
-
-#endif // ARDUINO_CREDENTIALS_H
