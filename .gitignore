@@ -203,9 +203,6 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
-# Arduino WiFi credentials
-Arduino/credentials.h
-
 # Ruff stuff:
 .ruff_cache/
 
